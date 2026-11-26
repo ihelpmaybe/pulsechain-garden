@@ -1,3 +1,0 @@
-custom
-richard-heart
-richard

@@ -1,3 +1,0 @@
-custom
-lena
-sailor-venus

@@ -1,2 +1,0 @@
-Jimmy — Sparta kick
-
