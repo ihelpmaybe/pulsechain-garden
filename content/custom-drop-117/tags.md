@@ -1,2 +1,7 @@
 custom
-drop
+jimmy
+hex
+mascot
+pepe
+sailor-venus
+
