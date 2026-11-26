@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T04:28:29.432Z",
+  "generated": "2026-11-26T04:29:26.023Z",
   "posts": [
     {
       "id": "custom-brick-phone-cutout-1",
@@ -762,10 +762,13 @@
     },
     {
       "id": "custom-drop-037",
-      "title": "Garden drop 037",
+      "title": "Jimmy",
       "tags": [
         "custom",
-        "drop"
+        "jimmy",
+        "hex",
+        "mascot",
+        "pepe"
       ],
       "date": "2026-11-25",
       "images": [
@@ -778,7 +781,7 @@
           1024
         ]
       },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
+      "content": "## Result\n\n**Jimmy** — HEX frog mascot plate (luxury bomber + iced HEX pendant).\n\n## Notes\n\n- Character name: Jimmy.\n- Pair with RH model refs if you need a human face lock; Jimmy is the frog."
     },
     {
       "id": "custom-drop-038",
@@ -2974,10 +2977,13 @@
     },
     {
       "id": "custom-drop-147",
-      "title": "Garden drop 147",
+      "title": "Jimmy",
       "tags": [
         "custom",
-        "drop"
+        "jimmy",
+        "hex",
+        "mascot",
+        "pepe"
       ],
       "date": "2026-11-25",
       "images": [
@@ -6244,10 +6250,13 @@
     },
     {
       "id": "custom-drop-309",
-      "title": "Garden drop 309",
+      "title": "Jimmy",
       "tags": [
         "custom",
-        "drop"
+        "jimmy",
+        "hex",
+        "mascot",
+        "pepe"
       ],
       "date": "2026-11-25",
       "images": [
