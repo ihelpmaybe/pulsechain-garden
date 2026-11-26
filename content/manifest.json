@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-26T03:30:42.258Z",
+  "generated": "2026-11-26T03:31:44.257Z",
   "posts": [
+    {
+      "id": "custom-hex-pendant-1",
+      "title": "HEX pendant — iced chain",
+      "tags": [
+        "custom",
+        "hex",
+        "jewelry",
+        "asset",
+        "cutout"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp",
+        "img-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          978,
+          1024
+        ],
+        "img-01.webp": [
+          978,
+          1024
+        ]
+      },
+      "content": "## Result\n\nIced HEX hexagon pendant on gold paperclip chain — cut out from black for compositing. Original kept as resource.\n\n## Prompt (recreate / variants)\n\n```\nmacro product photo of a large pave diamond HEX cryptocurrency hexagon pendant, yellow-to-pink-to-purple gemstone gradient, nested hex outlines in white diamonds, diamond bail, thick gold iced paperclip chain, black background, studio jewelry lighting, sparkle\n```\n\n## Notes\n\n- Transparent cutout for overlays on frog / RH plates.\n- Keep nested hex lines sharp — models smear them."
+    },
     {
       "id": "custom-rh-hex-frog-1",
       "title": "RH HEX frog — luxury mascot",
@@ -152,6 +180,10 @@
       "category": "cutouts"
     },
     {
+      "file": "hex/fin-01.webp",
+      "category": "hex"
+    },
+    {
       "file": "rh/fin-01.webp",
       "category": "rh"
     },
@@ -176,6 +208,10 @@
     "cutouts/fin-01.webp": [
       1024,
       964
+    ],
+    "hex/fin-01.webp": [
+      978,
+      1024
     ],
     "rh/fin-01.webp": [
       817,
