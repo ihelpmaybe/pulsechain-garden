@@ -1,3 +1,3 @@
 ## Result
 
-Batch dump for PulseChain Garden.
+Subject cut out (transparent). Original kept as resource.

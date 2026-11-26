@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T03:57:08.967Z",
+  "generated": "2026-11-26T04:09:47.056Z",
   "posts": [
     {
       "id": "custom-brick-phone-cutout-1",
@@ -273,20 +273,26 @@
       "title": "Garden drop 013",
       "tags": [
         "custom",
-        "drop"
+        "drop",
+        "cutout"
       ],
       "date": "2026-11-25",
       "images": [
-        "fin-01.webp"
+        "fin-01.webp",
+        "img-01.webp"
       ],
       "hero": "50% 50%",
       "dims": {
         "fin-01.webp": [
-          1024,
-          577
+          1280,
+          722
+        ],
+        "img-01.webp": [
+          1280,
+          722
         ]
       },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
+      "content": "## Result\n\nSubject cut out (transparent). Original kept as resource."
     },
     {
       "id": "custom-drop-014",
@@ -633,20 +639,26 @@
       "title": "Garden drop 031",
       "tags": [
         "custom",
-        "drop"
+        "drop",
+        "cutout"
       ],
       "date": "2026-11-25",
       "images": [
-        "fin-01.webp"
+        "fin-01.webp",
+        "img-01.webp"
       ],
       "hero": "50% 50%",
       "dims": {
         "fin-01.webp": [
-          1024,
-          768
+          1280,
+          960
+        ],
+        "img-01.webp": [
+          1280,
+          960
         ]
       },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
+      "content": "## Result\n\nSubject cut out (transparent). Original kept as resource."
     },
     {
       "id": "custom-drop-032",
@@ -993,20 +1005,26 @@
       "title": "Garden drop 049",
       "tags": [
         "custom",
-        "drop"
+        "drop",
+        "cutout"
       ],
       "date": "2026-11-25",
       "images": [
-        "fin-01.webp"
+        "fin-01.webp",
+        "img-01.webp"
       ],
       "hero": "50% 50%",
       "dims": {
         "fin-01.webp": [
-          819,
-          1024
+          1024,
+          1280
+        ],
+        "img-01.webp": [
+          1024,
+          1280
         ]
       },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
+      "content": "## Result\n\nSubject cut out (transparent). Original kept as resource."
     },
     {
       "id": "custom-drop-050",
@@ -2813,20 +2831,26 @@
       "title": "Garden drop 140",
       "tags": [
         "custom",
-        "drop"
+        "drop",
+        "cutout"
       ],
       "date": "2026-11-25",
       "images": [
-        "fin-01.webp"
+        "fin-01.webp",
+        "img-01.webp"
       ],
       "hero": "50% 50%",
       "dims": {
         "fin-01.webp": [
-          776,
-          1024
+          910,
+          1200
+        ],
+        "img-01.webp": [
+          910,
+          1200
         ]
       },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
+      "content": "## Result\n\nSubject cut out (transparent). Original kept as resource."
     },
     {
       "id": "custom-drop-141",
@@ -4053,20 +4077,26 @@
       "title": "Garden drop 202",
       "tags": [
         "custom",
-        "drop"
+        "drop",
+        "cutout"
       ],
       "date": "2026-11-25",
       "images": [
-        "fin-01.webp"
+        "fin-01.webp",
+        "img-01.webp"
       ],
       "hero": "50% 50%",
       "dims": {
         "fin-01.webp": [
           1008,
           1024
+        ],
+        "img-01.webp": [
+          1008,
+          1024
         ]
       },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
+      "content": "## Result\n\nSubject cut out (transparent). Original kept as resource."
     },
     {
       "id": "custom-drop-203",
@@ -4153,20 +4183,26 @@
       "title": "Garden drop 207",
       "tags": [
         "custom",
-        "drop"
+        "drop",
+        "cutout"
       ],
       "date": "2026-11-25",
       "images": [
-        "fin-01.webp"
+        "fin-01.webp",
+        "img-01.webp"
       ],
       "hero": "50% 50%",
       "dims": {
         "fin-01.webp": [
-          737,
-          1024
+          864,
+          1200
+        ],
+        "img-01.webp": [
+          864,
+          1200
         ]
       },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
+      "content": "## Result\n\nSubject cut out (transparent). Original kept as resource."
     },
     {
       "id": "custom-drop-208",
@@ -4313,20 +4349,26 @@
       "title": "Garden drop 215",
       "tags": [
         "custom",
-        "drop"
+        "drop",
+        "cutout"
       ],
       "date": "2026-11-25",
       "images": [
-        "fin-01.webp"
+        "fin-01.webp",
+        "img-01.webp"
       ],
       "hero": "50% 50%",
       "dims": {
         "fin-01.webp": [
-          682,
-          1024
+          853,
+          1280
+        ],
+        "img-01.webp": [
+          853,
+          1280
         ]
       },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
+      "content": "## Result\n\nSubject cut out (transparent). Original kept as resource."
     },
     {
       "id": "custom-drop-216",
@@ -4353,20 +4395,26 @@
       "title": "Garden drop 217",
       "tags": [
         "custom",
-        "drop"
+        "drop",
+        "cutout"
       ],
       "date": "2026-11-25",
       "images": [
-        "fin-01.webp"
+        "fin-01.webp",
+        "img-01.webp"
       ],
       "hero": "50% 50%",
       "dims": {
         "fin-01.webp": [
           500,
           356
+        ],
+        "img-01.webp": [
+          500,
+          356
         ]
       },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
+      "content": "## Result\n\nSubject cut out (transparent). Original kept as resource."
     },
     {
       "id": "custom-drop-218",
@@ -4653,20 +4701,26 @@
       "title": "Garden drop 232",
       "tags": [
         "custom",
-        "drop"
+        "drop",
+        "cutout"
       ],
       "date": "2026-11-25",
       "images": [
-        "fin-01.webp"
+        "fin-01.webp",
+        "img-01.webp"
       ],
       "hero": "50% 50%",
       "dims": {
         "fin-01.webp": [
           1024,
           1024
+        ],
+        "img-01.webp": [
+          1024,
+          1024
         ]
       },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
+      "content": "## Result\n\nSubject cut out (transparent). Original kept as resource."
     },
     {
       "id": "custom-drop-233",
@@ -10381,6 +10435,42 @@
       "category": "cutouts"
     },
     {
+      "file": "cutouts/img-01.webp",
+      "category": "cutouts"
+    },
+    {
+      "file": "cutouts/img-02.webp",
+      "category": "cutouts"
+    },
+    {
+      "file": "cutouts/img-03.webp",
+      "category": "cutouts"
+    },
+    {
+      "file": "cutouts/img-04.webp",
+      "category": "cutouts"
+    },
+    {
+      "file": "cutouts/img-05.webp",
+      "category": "cutouts"
+    },
+    {
+      "file": "cutouts/img-06.webp",
+      "category": "cutouts"
+    },
+    {
+      "file": "cutouts/img-07.webp",
+      "category": "cutouts"
+    },
+    {
+      "file": "cutouts/img-08.webp",
+      "category": "cutouts"
+    },
+    {
+      "file": "cutouts/img-09.webp",
+      "category": "cutouts"
+    },
+    {
       "file": "hex/fin-01.webp",
       "category": "hex"
     },
@@ -12069,6 +12159,42 @@
     "cutouts/fin-02.webp": [
       1024,
       943
+    ],
+    "cutouts/img-01.webp": [
+      1280,
+      722
+    ],
+    "cutouts/img-02.webp": [
+      1280,
+      960
+    ],
+    "cutouts/img-03.webp": [
+      910,
+      1200
+    ],
+    "cutouts/img-04.webp": [
+      1024,
+      1280
+    ],
+    "cutouts/img-05.webp": [
+      1008,
+      1024
+    ],
+    "cutouts/img-06.webp": [
+      864,
+      1200
+    ],
+    "cutouts/img-07.webp": [
+      853,
+      1280
+    ],
+    "cutouts/img-08.webp": [
+      500,
+      356
+    ],
+    "cutouts/img-09.webp": [
+      1024,
+      1024
     ],
     "hex/fin-01.webp": [
       978,
