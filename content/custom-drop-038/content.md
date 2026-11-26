@@ -1,3 +1,4 @@
 ## Result
 
-Batch dump for PulseChain Garden.
+**Jimmy** — HEX frog mascot plate.
+

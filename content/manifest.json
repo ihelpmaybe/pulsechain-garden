@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T04:31:10.024Z",
+  "generated": "2026-11-26T04:32:00.855Z",
   "posts": [
     {
       "id": "custom-brick-phone-cutout-1",
@@ -793,10 +793,13 @@
     },
     {
       "id": "custom-drop-038",
-      "title": "Garden drop 038",
+      "title": "Jimmy",
       "tags": [
         "custom",
-        "drop"
+        "jimmy",
+        "hex",
+        "mascot",
+        "pepe"
       ],
       "date": "2026-11-25",
       "images": [
@@ -809,7 +812,7 @@
           1024
         ]
       },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
+      "content": "## Result\n\n**Jimmy** — HEX frog mascot plate."
     },
     {
       "id": "custom-drop-039",
@@ -3037,26 +3040,6 @@
     {
       "id": "custom-drop-149",
       "title": "Garden drop 149",
-      "tags": [
-        "custom",
-        "drop"
-      ],
-      "date": "2026-11-25",
-      "images": [
-        "fin-01.webp"
-      ],
-      "hero": "50% 50%",
-      "dims": {
-        "fin-01.webp": [
-          768,
-          1024
-        ]
-      },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
-    },
-    {
-      "id": "custom-drop-150",
-      "title": "Garden drop 150",
       "tags": [
         "custom",
         "drop"
@@ -6336,26 +6319,6 @@
       "content": "## Result\n\nBatch dump for PulseChain Garden."
     },
     {
-      "id": "custom-drop-312",
-      "title": "Garden drop 312",
-      "tags": [
-        "custom",
-        "drop"
-      ],
-      "date": "2026-11-25",
-      "images": [
-        "fin-01.webp"
-      ],
-      "hero": "50% 50%",
-      "dims": {
-        "fin-01.webp": [
-          768,
-          1024
-        ]
-      },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
-    },
-    {
       "id": "custom-drop-313",
       "title": "Garden drop 313",
       "tags": [
@@ -9606,10 +9569,6 @@
       "category": "bulk"
     },
     {
-      "file": "bulk/img-150.webp",
-      "category": "bulk"
-    },
-    {
       "file": "bulk/img-151.webp",
       "category": "bulk"
     },
@@ -10299,10 +10258,6 @@
     },
     {
       "file": "bulk/img-311.webp",
-      "category": "bulk"
-    },
-    {
-      "file": "bulk/img-312.webp",
       "category": "bulk"
     },
     {
@@ -11311,10 +11266,6 @@
       819,
       1024
     ],
-    "bulk/img-150.webp": [
-      768,
-      1024
-    ],
     "bulk/img-151.webp": [
       1024,
       576
@@ -12004,10 +11955,6 @@
       1024
     ],
     "bulk/img-311.webp": [
-      768,
-      1024
-    ],
-    "bulk/img-312.webp": [
       768,
       1024
     ],
