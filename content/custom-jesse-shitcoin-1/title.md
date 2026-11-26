@@ -1,0 +1,1 @@
+Whos the shitcoin now

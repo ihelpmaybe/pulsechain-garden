@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T03:32:19.352Z",
+  "generated": "2026-11-26T03:34:36.867Z",
   "posts": [
     {
       "id": "custom-brick-phone-cutout-1",
@@ -29,6 +29,27 @@
       "content": "## Result\n\nBlonde with vintage brick phone cut out from blue background (transparent). Original kept as resource.\n\n## Notes\n\n- Soft hair edges — check against dark Pulse plates.\n- Good 80s/90s flex plate for HEX / RH comps."
     },
     {
+      "id": "custom-hex-nascar-1",
+      "title": "HEX.com NASCAR 55",
+      "tags": [
+        "custom",
+        "hex",
+        "racing"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          1024,
+          651
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
       "id": "custom-hex-pendant-1",
       "title": "HEX pendant — iced chain",
       "tags": [
@@ -55,6 +76,54 @@
         ]
       },
       "content": "## Result\n\nIced HEX hexagon pendant on gold paperclip chain — cut out from black for compositing. Original kept as resource.\n\n## Prompt (recreate / variants)\n\n```\nmacro product photo of a large pave diamond HEX cryptocurrency hexagon pendant, yellow-to-pink-to-purple gemstone gradient, nested hex outlines in white diamonds, diamond bail, thick gold iced paperclip chain, black background, studio jewelry lighting, sparkle\n```\n\n## Notes\n\n- Transparent cutout for overlays on frog / RH plates.\n- Keep nested hex lines sharp — models smear them."
+    },
+    {
+      "id": "custom-hex-priestess-1",
+      "title": "HEX priestess — blessing",
+      "tags": [
+        "custom",
+        "hex",
+        "sailor-venus",
+        "cutout"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp",
+        "img-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          1024,
+          1024
+        ],
+        "img-01.webp": [
+          1024,
+          1024
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
+      "id": "custom-jesse-shitcoin-1",
+      "title": "Whos the shitcoin now",
+      "tags": [
+        "custom",
+        "meme",
+        "pulsechain"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          1024,
+          766
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
     },
     {
       "id": "custom-rh-hex-frog-1",
@@ -104,6 +173,60 @@
       "content": "## Result\n\nHEX frog on the podcast throne — SM7B boom mic, HEX tee + mug, green candles, dark leather study.\n\n## Prompt (recreate / variants)\n\n```\nphotoreal 3D anthropomorphic green frog with smug smirk seated in a dark tufted leather executive chair, muscular arms on the armrests, black HEX logo t-shirt with orange-pink-purple gradient hexagon, silver chains with hexagonal pendants, professional black podcast microphone on boom arm in foreground, white mug with HEX logo to the side, ornate golden candelabra with lit green candles left, glowing purple trophy cabinet background right, dark wood paneling, cinematic lighting\n```\n\n## Notes\n\n- Strong talking-head / interview plate for RH-mascot content.\n- Keep HEX hex gradient readable on shirt and mug.\n- Pair with the luxury-bomber frog for a mascot set."
     },
     {
+      "id": "custom-rh-lv-suit-1",
+      "title": "RH LV tracksuit + HEX chain",
+      "tags": [
+        "custom",
+        "richard-heart",
+        "hex",
+        "cutout"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp",
+        "img-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          576,
+          1024
+        ],
+        "img-01.webp": [
+          576,
+          1024
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
+      "id": "custom-rh-prison-suit-1",
+      "title": "RH prison tracksuit 5555369",
+      "tags": [
+        "custom",
+        "richard-heart",
+        "hex",
+        "cutout"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp",
+        "img-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          576,
+          1024
+        ],
+        "img-01.webp": [
+          576,
+          1024
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
       "id": "custom-sailor-cutout-1",
       "title": "Sailor Venus cutout — sheep field",
       "tags": [
@@ -129,6 +252,217 @@
         ]
       },
       "content": "## Result\n\nSubject cut out from the sheep-field selfie (transparent PNG via rembg). Original kept as resource.\n\n## Notes\n\n- Transparent PNG — drop over Pulse/HEX plates.\n- Hair edges may need a light manual cleanup in Photopea if you go hero-size.\n- Pair as omni/img ref for cosplay + Pulse scene comps."
+    },
+    {
+      "id": "custom-sv-ambulance-rpg-1",
+      "title": "Sailor Venus — call an ambulance",
+      "tags": [
+        "custom",
+        "sailor-venus",
+        "meme"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          768,
+          1024
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
+      "id": "custom-sv-grimace-selfie-1",
+      "title": "Sailor Venus cosplay grimace",
+      "tags": [
+        "custom",
+        "sailor-venus",
+        "cutout",
+        "cosplay"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp",
+        "img-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          1024,
+          576
+        ],
+        "img-01.webp": [
+          1024,
+          576
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
+      "id": "custom-sv-groyper-room-1",
+      "title": "Sailor Venus + HEX frog room",
+      "tags": [
+        "custom",
+        "sailor-venus",
+        "mascot",
+        "pepe"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          819,
+          1024
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
+      "id": "custom-sv-hex-halloween-1",
+      "title": "HEX Happy Halloween Sailor Venus",
+      "tags": [
+        "custom",
+        "sailor-venus",
+        "hex",
+        "halloween"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          1024,
+          1024
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
+      "id": "custom-sv-hex-shield-1",
+      "title": "Sailor Venus HEX shield cosplay",
+      "tags": [
+        "custom",
+        "sailor-venus",
+        "hex",
+        "cutout",
+        "cosplay"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp",
+        "img-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          768,
+          1024
+        ],
+        "img-01.webp": [
+          768,
+          1024
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
+      "id": "custom-sv-kanye-1",
+      "title": "Sailor Venus + Ye",
+      "tags": [
+        "custom",
+        "sailor-venus",
+        "meme"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          1024,
+          683
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
+      "id": "custom-sv-reaction-meme-1",
+      "title": "Sailor Venus reaction meme",
+      "tags": [
+        "custom",
+        "sailor-venus",
+        "meme"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          1024,
+          682
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
+      "id": "custom-sv-rh-reflection-1",
+      "title": "Sailor Venus / RH mirror squat",
+      "tags": [
+        "custom",
+        "sailor-venus",
+        "richard-heart",
+        "meme"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          576,
+          1024
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
+    },
+    {
+      "id": "custom-sv-simp-1",
+      "title": "Sailor Venus — Simp",
+      "tags": [
+        "custom",
+        "sailor-venus",
+        "meme",
+        "cutout"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp",
+        "img-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          1024,
+          768
+        ],
+        "img-01.webp": [
+          1024,
+          768
+        ]
+      },
+      "content": "## Result\n\nBatch drop for PulseChain Garden."
     },
     {
       "id": "gpt-pulse-city-1",
@@ -203,6 +537,30 @@
   ],
   "assets": [
     {
+      "file": "batch/fin-01.webp",
+      "category": "batch"
+    },
+    {
+      "file": "batch/fin-02.webp",
+      "category": "batch"
+    },
+    {
+      "file": "batch/fin-03.webp",
+      "category": "batch"
+    },
+    {
+      "file": "batch/fin-04.webp",
+      "category": "batch"
+    },
+    {
+      "file": "batch/fin-05.webp",
+      "category": "batch"
+    },
+    {
+      "file": "batch/fin-06.webp",
+      "category": "batch"
+    },
+    {
       "file": "cutouts/fin-01.webp",
       "category": "cutouts"
     },
@@ -236,6 +594,30 @@
     }
   ],
   "assetDims": {
+    "batch/fin-01.webp": [
+      1024,
+      1024
+    ],
+    "batch/fin-02.webp": [
+      576,
+      1024
+    ],
+    "batch/fin-03.webp": [
+      576,
+      1024
+    ],
+    "batch/fin-04.webp": [
+      1024,
+      576
+    ],
+    "batch/fin-05.webp": [
+      768,
+      1024
+    ],
+    "batch/fin-06.webp": [
+      1024,
+      768
+    ],
     "cutouts/fin-01.webp": [
       1024,
       964
