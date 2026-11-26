@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T03:29:32.758Z",
+  "generated": "2026-11-26T03:30:42.258Z",
   "posts": [
     {
       "id": "custom-rh-hex-frog-1",
@@ -47,6 +47,33 @@
         ]
       },
       "content": "## Result\n\nHEX frog on the podcast throne — SM7B boom mic, HEX tee + mug, green candles, dark leather study.\n\n## Prompt (recreate / variants)\n\n```\nphotoreal 3D anthropomorphic green frog with smug smirk seated in a dark tufted leather executive chair, muscular arms on the armrests, black HEX logo t-shirt with orange-pink-purple gradient hexagon, silver chains with hexagonal pendants, professional black podcast microphone on boom arm in foreground, white mug with HEX logo to the side, ornate golden candelabra with lit green candles left, glowing purple trophy cabinet background right, dark wood paneling, cinematic lighting\n```\n\n## Notes\n\n- Strong talking-head / interview plate for RH-mascot content.\n- Keep HEX hex gradient readable on shirt and mug.\n- Pair with the luxury-bomber frog for a mascot set."
+    },
+    {
+      "id": "custom-sailor-cutout-1",
+      "title": "Sailor Venus cutout — sheep field",
+      "tags": [
+        "custom",
+        "cutout",
+        "cosplay",
+        "asset"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp",
+        "img-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          1024,
+          964
+        ],
+        "img-01.webp": [
+          1024,
+          964
+        ]
+      },
+      "content": "## Result\n\nSubject cut out from the sheep-field selfie (transparent PNG via rembg). Original kept as resource.\n\n## Notes\n\n- Transparent PNG — drop over Pulse/HEX plates.\n- Hair edges may need a light manual cleanup in Photopea if you go hero-size.\n- Pair as omni/img ref for cosplay + Pulse scene comps."
     },
     {
       "id": "gpt-pulse-city-1",
@@ -121,6 +148,10 @@
   ],
   "assets": [
     {
+      "file": "cutouts/fin-01.webp",
+      "category": "cutouts"
+    },
+    {
       "file": "rh/fin-01.webp",
       "category": "rh"
     },
@@ -142,6 +173,10 @@
     }
   ],
   "assetDims": {
+    "cutouts/fin-01.webp": [
+      1024,
+      964
+    ],
     "rh/fin-01.webp": [
       817,
       1024
