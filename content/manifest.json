@@ -1,0 +1,103 @@
+{
+  "generated": "2026-11-26T03:21:57.200Z",
+  "posts": [
+    {
+      "id": "gpt-pulse-city-1",
+      "title": "PulseChain neon city night",
+      "tags": [
+        "chatgpt-image-2",
+        "pulsechain",
+        "cityscape"
+      ],
+      "date": "2026-11-25",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nwide night cityscape on PulseChain, teal and magenta neon signage reflected in wet asphalt, distant hexagonal tower glowing pulse-green, anamorphic lens flare, cinematic 1980s sci-fi still, deep blacks, no readable brand logos, photoreal\n```\n\n## Notes\n\n- Good environment plate for compositing RH later.\n- Keep logos abstract — models love inventing fake tickers."
+    },
+    {
+      "id": "gpt-rh-stage-1",
+      "title": "RH on stage — concert still",
+      "tags": [
+        "chatgpt-image-2",
+        "richard-heart",
+        "concert"
+      ],
+      "date": "2026-11-25",
+      "images": [],
+      "hero": "50% 10%",
+      "content": "## Prompt\n\n```\nRichard Heart on stage under teal spotlights, exact facial likeness, black shirt, crowd as dark silhouettes, concert photography, shallow depth of field, stage haze, high ISO grain, keep expression confident and natural\n```\n\n## Notes\n\n- Pair with a real stage photo as image 1 for pose lock.\n- Avoid inventing microphones that cover the face."
+    },
+    {
+      "id": "mj-hex-poster-1",
+      "title": "HEX monumental type poster",
+      "tags": [
+        "midjourney",
+        "hex",
+        "poster",
+        "typography"
+      ],
+      "date": "2026-11-25",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nhuge letters \"HEX\" fill the entire composition top to bottom and across, no empty space, black outside the letters, only within the letters is a glowing teal pulse lattice and gold filament light, heavy risograph grain, cyber-finance poster, sacred geometry --chaos 40 --ar 3:1 --raw --stylize 900 --v 7\n```\n\n## Notes\n\n- Works as a banner / header asset.\n- Try `PULSE` or `PLS` as alternate letter stacks."
+    },
+    {
+      "id": "mj-rh-portrait-1",
+      "title": "Richard Heart portrait — teal rim",
+      "tags": [
+        "midjourney",
+        "richard-heart",
+        "portrait"
+      ],
+      "date": "2026-11-25",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\ncinematic portrait of Richard Heart, exact facial likeness and expression, teal rim light from camera-right, deep black studio backdrop, subtle PulseChain green accent glow on cheek edge, shot on 85mm f/1.8, shallow depth of field, fine film grain, high contrast, no text, no logos --ar 3:4 --stylize 250 --v 7\n```\n\n## Notes\n\n- Drop a clean face ref in `img-ref/` and keep likeness language explicit.\n- Swap teal for gold if you want a HEX-forward grade."
+    }
+  ],
+  "styles": [
+    {
+      "id": "mood-pulse-teal-1",
+      "type": "mood",
+      "title": "Pulse teal night grade",
+      "code": "teal rim light, PulseChain green accent glow, crushed blacks, sparse midtones, cool grade, no warm tungsten, fine film grain",
+      "tags": [
+        "pulsechain",
+        "teal",
+        "cinematic",
+        "night"
+      ],
+      "date": "2026-11-26",
+      "images": [],
+      "notes": "Default PulseChain night look: crushed blacks, teal accents, sparse midtones, no warm tungsten."
+    }
+  ],
+  "assets": [
+    {
+      "file": "rh/img-01.webp",
+      "category": "rh"
+    },
+    {
+      "file": "rh/img-02.webp",
+      "category": "rh"
+    },
+    {
+      "file": "rh/img-03.webp",
+      "category": "rh"
+    }
+  ],
+  "assetDims": {
+    "rh/img-01.webp": [
+      1200,
+      628
+    ],
+    "rh/img-02.webp": [
+      1080,
+      1920
+    ],
+    "rh/img-03.webp": [
+      256,
+      256
+    ]
+  }
+}

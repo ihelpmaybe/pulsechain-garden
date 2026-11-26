@@ -1,0 +1,66 @@
+{
+  "resources": [
+    {
+      "name": "PulseChain.com",
+      "url": "https://pulsechain.com",
+      "desc": "Official PulseChain"
+    },
+    {
+      "name": "HEX.com",
+      "url": "https://hex.com",
+      "desc": "HEX"
+    },
+    {
+      "name": "PulseX",
+      "url": "https://pulsex.com",
+      "desc": "DEX"
+    },
+    {
+      "name": "scan.pulsechain",
+      "url": "https://scan.pulsechain.com",
+      "desc": "Block explorer"
+    },
+    {
+      "name": "Midjourney Docs",
+      "url": "https://docs.midjourney.com",
+      "desc": "Prompt flags & params"
+    },
+    {
+      "name": "Photopea",
+      "url": "https://www.photopea.com",
+      "desc": "Free Photoshop"
+    },
+    {
+      "name": "Squoosh",
+      "url": "https://squoosh.app",
+      "desc": "Compress / convert images"
+    },
+    {
+      "name": "Powerthesaurus",
+      "url": "https://www.powerthesaurus.org",
+      "desc": "For prompting"
+    },
+    {
+      "name": "Aesthetics Wiki",
+      "url": "https://aesthetics.fandom.com/wiki/Aesthetics_Wiki",
+      "desc": "Explore aesthetics"
+    }
+  ],
+  "social": [
+    {
+      "name": "@RichardHeartWin",
+      "url": "https://x.com/RichardHeartWin",
+      "desc": "Richard Heart"
+    },
+    {
+      "name": "@PulsechainCom",
+      "url": "https://x.com/PulsechainCom",
+      "desc": "PulseChain"
+    },
+    {
+      "name": "@HEXCrypto",
+      "url": "https://x.com/HEXCrypto",
+      "desc": "HEX"
+    }
+  ]
+}

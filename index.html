@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="garden">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="dark">
+  <title>PULSECHAIN GARDEN</title>
+  <meta name="description" content="PULSECHAIN GARDEN — image &amp; video prompts for Richard Heart, HEX, and PulseChain.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%2300e5a8'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar" id="topbar">
+    <div class="topbar-row">
+      <a class="brand" href="#/" aria-label="PULSECHAIN GARDEN — all posts">
+        <svg class="wordmark" width="220" height="22" viewBox="0 0 220 22" aria-hidden="true">
+          <g font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-style="italic" font-size="15" letter-spacing="-0.4">
+            <text x="4" y="18.5" fill="var(--brand-dark)" transform="skewX(-6)">PULSECHAIN GARDEN</text>
+            <text x="3" y="17" fill="var(--brand)" transform="skewX(-6)">PULSECHAIN GARDEN</text>
+          </g>
+        </svg>
+      </a>
+      <nav class="site-nav">
+        <a class="nav-link" href="#/" data-nav="list">Home</a>
+        <a class="nav-link" href="#/styles" data-nav="styles">Styles</a>
+        <a class="nav-link" href="#/assets" data-nav="assets">Assets</a>
+        <a class="nav-link" href="#/links" data-nav="links">Links</a>
+      </nav>
+      <input type="search" id="search" class="input search" placeholder="Search title or content…" autocomplete="off" spellcheck="false" aria-label="Search posts">
+      <div class="controls" id="controls">
+        <select id="filter-tag" class="input select" aria-label="Filter by tag">
+          <option value="">All tags</option>
+        </select>
+        <select id="sort" class="input select" aria-label="Sort posts">
+          <option value="date-desc">Newest</option>
+          <option value="date-asc">Oldest</option>
+          <option value="title-asc">Title A–Z</option>
+          <option value="title-desc">Title Z–A</option>
+        </select>
+      </div>
+      <div class="social">
+        <a class="icon-btn" href="https://x.com/RichardHeartWin" target="_blank" rel="noopener" aria-label="X profile @RichardHeartWin">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main id="app">
+    <div class="status" id="status">Loading…</div>
+  </main>
+
+  <footer class="footer">
+    <a class="footer-link" href="#/privacy">Privacy</a>
+  </footer>
+
+  <button class="btn btn-icon back-top" id="back-top" hidden aria-label="Back to top" title="Back to top">
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 13V3m0 0L4 7m4-4l4 4"/></svg>
+  </button>
+
+  <div class="tree-modal" id="tree-modal" hidden role="dialog" aria-modal="true" aria-label="Content tree">
+    <div class="tree-panel">
+      <div class="tree-head">
+        <span class="tree-heading">Tree</span>
+        <button class="btn" id="tree-close" aria-label="Close content tree">Close</button>
+      </div>
+      <div class="tree-body" id="tree-body"></div>
+    </div>
+  </div>
+
+  <div class="lightbox" id="lightbox" hidden role="dialog" aria-modal="true" aria-label="Image viewer">
+    <div class="lightbox-bar">
+      <span class="lightbox-counter" id="lb-counter"></span>
+      <div class="lightbox-actions">
+        <button class="btn btn-icon" id="lb-copy" aria-label="Copy image" title="Copy">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5.5" y="5.5" width="8" height="8" rx="1.5"/><path d="M10.5 5.5v-2a1 1 0 0 0-1-1h-6a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h2"/></svg>
+        </button>
+        <a class="btn btn-icon" id="lb-download" href="#" download aria-label="Download image" title="Download">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0l3.2-3.2M8 10L4.8 6.8M3 13.5h10"/></svg>
+        </a>
+        <button class="btn" id="lb-close" aria-label="Close viewer">Close</button>
+      </div>
+    </div>
+    <button class="lightbox-nav prev" id="lb-prev" aria-label="Previous image">&#8592;</button>
+    <img class="lightbox-img" id="lb-img" src="" alt="">
+    <button class="lightbox-nav next" id="lb-next" aria-label="Next image">&#8594;</button>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
