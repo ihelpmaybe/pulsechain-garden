@@ -1,1 +1,1 @@
-RH model kit — face + body refs
+Richard — model kit
