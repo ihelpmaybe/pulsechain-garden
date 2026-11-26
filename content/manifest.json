@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T04:42:27.544Z",
+  "generated": "2026-11-26T05:24:24.765Z",
   "posts": [
     {
       "id": "custom-brick-phone-cutout-1",
@@ -2210,32 +2210,6 @@
         ]
       },
       "content": "## Result\n\nBatch dump for PulseChain Garden."
-    },
-    {
-      "id": "custom-drop-140",
-      "title": "Garden drop 140",
-      "tags": [
-        "custom",
-        "drop",
-        "cutout"
-      ],
-      "date": "2026-11-25",
-      "images": [
-        "fin-01.webp",
-        "img-01.webp"
-      ],
-      "hero": "50% 50%",
-      "dims": {
-        "fin-01.webp": [
-          910,
-          1200
-        ],
-        "img-01.webp": [
-          910,
-          1200
-        ]
-      },
-      "content": "## Result\n\nSubject cut out (transparent). Original kept as resource."
     },
     {
       "id": "custom-drop-142",
@@ -5222,10 +5196,6 @@
       "category": "cutouts"
     },
     {
-      "file": "cutouts/img-03.webp",
-      "category": "cutouts"
-    },
-    {
       "file": "cutouts/img-04.webp",
       "category": "cutouts"
     },
@@ -5954,10 +5924,6 @@
     "cutouts/img-02.webp": [
       1280,
       960
-    ],
-    "cutouts/img-03.webp": [
-      910,
-      1200
     ],
     "cutouts/img-04.webp": [
       1024,
