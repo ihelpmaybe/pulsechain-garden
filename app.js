@@ -466,10 +466,23 @@
 
   /* ------------------------------------------------------------ filtering */
 
+  /* Identity labels from the naming pass — everything else counts as untagged. */
+  const IDENTITY_TAGS = new Set(['jimmy', 'lena', 'richard', 'richard-heart']);
+  const isIdentityTagged = (p) => {
+    const tags = (p.tags || []).map((t) => String(t).toLowerCase());
+    if (tags.some((t) => IDENTITY_TAGS.has(t))) return true;
+    const title = String(p.title || '').toLowerCase();
+    return /\bjimmy\b|\blena\b|\brichard\b/.test(title);
+  };
+
   function filteredPosts(state) {
     const q = state.q.trim().toLowerCase();
     let result = posts.filter((p) => {
-      if (state.tag && !p.tags.includes(state.tag)) return false;
+      if (state.tag === '__untagged__') {
+        if (isIdentityTagged(p)) return false;
+      } else if (state.tag && !p.tags.includes(state.tag)) {
+        return false;
+      }
       if (q) {
         const haystack = `${p.title}\n${p.content}`.toLowerCase();
         if (!haystack.includes(q)) return false;
@@ -1340,6 +1353,11 @@
       }
 
       const tags = [...new Set(posts.flatMap((p) => p.tags))].sort();
+      const untaggedCount = posts.filter((p) => !isIdentityTagged(p)).length;
+      const untaggedOpt = els.tag.querySelector('option[value="__untagged__"]');
+      if (untaggedOpt) {
+        untaggedOpt.textContent = `Untagged (${untaggedCount})`;
+      }
       for (const t of tags) {
         const opt = document.createElement('option');
         opt.value = t;
