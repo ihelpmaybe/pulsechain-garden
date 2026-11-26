@@ -1,6 +1,33 @@
 {
-  "generated": "2026-11-26T03:31:44.257Z",
+  "generated": "2026-11-26T03:32:19.352Z",
   "posts": [
+    {
+      "id": "custom-brick-phone-cutout-1",
+      "title": "Brick phone blonde — cutout",
+      "tags": [
+        "custom",
+        "cutout",
+        "retro",
+        "asset"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp",
+        "img-01.webp"
+      ],
+      "hero": "50% 50%",
+      "dims": {
+        "fin-01.webp": [
+          1024,
+          943
+        ],
+        "img-01.webp": [
+          1024,
+          943
+        ]
+      },
+      "content": "## Result\n\nBlonde with vintage brick phone cut out from blue background (transparent). Original kept as resource.\n\n## Notes\n\n- Soft hair edges — check against dark Pulse plates.\n- Good 80s/90s flex plate for HEX / RH comps."
+    },
     {
       "id": "custom-hex-pendant-1",
       "title": "HEX pendant — iced chain",
@@ -180,6 +207,10 @@
       "category": "cutouts"
     },
     {
+      "file": "cutouts/fin-02.webp",
+      "category": "cutouts"
+    },
+    {
       "file": "hex/fin-01.webp",
       "category": "hex"
     },
@@ -208,6 +239,10 @@
     "cutouts/fin-01.webp": [
       1024,
       964
+    ],
+    "cutouts/fin-02.webp": [
+      1024,
+      943
     ],
     "hex/fin-01.webp": [
       978,
