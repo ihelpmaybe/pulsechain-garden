@@ -1,1 +1,1 @@
-﻿Richard Heart portrait — teal rim
+Richard — portrait
