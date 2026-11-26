@@ -972,7 +972,11 @@
       <div class="post-view page-view">
         <h1 class="post-title">Links</h1>
         ${linksData
-          ? section('Resources', linksData.resources) + section('Social', linksData.social)
+          ? section('Official', linksData.official)
+            + section('Community', linksData.community)
+            + section('Tools', linksData.tools)
+            + section('Resources', linksData.resources)
+            + section('Social', linksData.social)
           : '<div class="status">No links yet. Add them to <code>content/links.json</code>.</div>'}
       </div>`;
 

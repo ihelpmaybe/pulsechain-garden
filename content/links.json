@@ -1,5 +1,5 @@
 {
-  "resources": [
+  "official": [
     {
       "name": "PulseChain.com",
       "url": "https://pulsechain.com",
@@ -16,10 +16,74 @@
       "desc": "DEX"
     },
     {
+      "name": "ProveX",
+      "url": "https://provex.com",
+      "desc": "Proof / identity"
+    },
+    {
+      "name": "Bridge",
+      "url": "https://bridge.pulsechain.com",
+      "desc": "PulseChain bridge"
+    },
+    {
+      "name": "PUMP.tires",
+      "url": "https://pump.tires",
+      "desc": "Pulse memecoins"
+    },
+    {
       "name": "scan.pulsechain",
       "url": "https://scan.pulsechain.com",
       "desc": "Block explorer"
     },
+    {
+      "name": "Trezor Suite",
+      "url": "https://trezor.io/trezor-suite",
+      "desc": "Connect host for hardware wallet"
+    }
+  ],
+  "community": [
+    {
+      "name": "Pulse Perch",
+      "url": "https://github.com/ihelpmaybe/pulse-trezor",
+      "desc": "Trezor desk · Pulse HWW"
+    },
+    {
+      "name": "PulseChain Garden",
+      "url": "https://ihelpmaybe.github.io/pulsechain-garden/",
+      "desc": "This site · RH / HEX prompts"
+    },
+    {
+      "name": "Tip wallet",
+      "url": "https://github.com/ihelpmaybe/Tip-wallet",
+      "desc": "Android · EIP-681 Pulse"
+    },
+    {
+      "name": "Hearts Archive",
+      "url": "https://ihelpmaybe.github.io/hearts-archive/",
+      "desc": "On-chain Pulse newspaper"
+    },
+    {
+      "name": "Just The Tip",
+      "url": "https://github.com/ihelpmaybe/Just-The-Tip",
+      "desc": "0% Tip-to-Buzz · Pulse"
+    },
+    {
+      "name": "Free Super chat",
+      "url": "https://github.com/ihelpmaybe/Free-Super-chat",
+      "desc": "0% Super Chat software"
+    },
+    {
+      "name": "SellHEX",
+      "url": "https://github.com/ihelpmaybe/SellHEX",
+      "desc": "HEX sell tooling"
+    },
+    {
+      "name": "HEX Watch",
+      "url": "https://github.com/ihelpmaybe/HEX-watch",
+      "desc": "Stake watcher"
+    }
+  ],
+  "tools": [
     {
       "name": "Midjourney Docs",
       "url": "https://docs.midjourney.com",
