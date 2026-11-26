@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T04:39:11.176Z",
+  "generated": "2026-11-26T04:40:10.919Z",
   "posts": [
     {
       "id": "custom-brick-phone-cutout-1",
@@ -125,26 +125,6 @@
         "fin-01.webp": [
           1024,
           682
-        ]
-      },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
-    },
-    {
-      "id": "custom-drop-006",
-      "title": "Garden drop 006",
-      "tags": [
-        "custom",
-        "drop"
-      ],
-      "date": "2026-11-25",
-      "images": [
-        "fin-01.webp"
-      ],
-      "hero": "50% 50%",
-      "dims": {
-        "fin-01.webp": [
-          576,
-          1024
         ]
       },
       "content": "## Result\n\nBatch dump for PulseChain Garden."
@@ -1921,26 +1901,6 @@
         "fin-01.webp": [
           1024,
           682
-        ]
-      },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
-    },
-    {
-      "id": "custom-drop-094",
-      "title": "Garden drop 094",
-      "tags": [
-        "custom",
-        "drop"
-      ],
-      "date": "2026-11-25",
-      "images": [
-        "fin-01.webp"
-      ],
-      "hero": "50% 50%",
-      "dims": {
-        "fin-01.webp": [
-          576,
-          1024
         ]
       },
       "content": "## Result\n\nBatch dump for PulseChain Garden."
@@ -5168,26 +5128,6 @@
         "fin-01.webp": [
           1024,
           682
-        ]
-      },
-      "content": "## Result\n\nBatch dump for PulseChain Garden."
-    },
-    {
-      "id": "custom-drop-254",
-      "title": "Garden drop 254",
-      "tags": [
-        "custom",
-        "drop"
-      ],
-      "date": "2026-11-25",
-      "images": [
-        "fin-01.webp"
-      ],
-      "hero": "50% 50%",
-      "dims": {
-        "fin-01.webp": [
-          576,
-          1024
         ]
       },
       "content": "## Result\n\nBatch dump for PulseChain Garden."
@@ -9360,10 +9300,6 @@
       "category": "bulk"
     },
     {
-      "file": "bulk/img-06.webp",
-      "category": "bulk"
-    },
-    {
       "file": "bulk/img-07.webp",
       "category": "bulk"
     },
@@ -10025,10 +9961,6 @@
     },
     {
       "file": "bulk/img-253.webp",
-      "category": "bulk"
-    },
-    {
-      "file": "bulk/img-254.webp",
       "category": "bulk"
     },
     {
@@ -10900,10 +10832,6 @@
       "category": "bulk"
     },
     {
-      "file": "bulk/img-94.webp",
-      "category": "bulk"
-    },
-    {
       "file": "bulk/img-95.webp",
       "category": "bulk"
     },
@@ -11044,10 +10972,6 @@
     "bulk/img-05.webp": [
       1024,
       682
-    ],
-    "bulk/img-06.webp": [
-      576,
-      1024
     ],
     "bulk/img-07.webp": [
       768,
@@ -11712,10 +11636,6 @@
     "bulk/img-253.webp": [
       1024,
       682
-    ],
-    "bulk/img-254.webp": [
-      576,
-      1024
     ],
     "bulk/img-255.webp": [
       768,
@@ -12584,10 +12504,6 @@
     "bulk/img-93.webp": [
       1024,
       682
-    ],
-    "bulk/img-94.webp": [
-      576,
-      1024
     ],
     "bulk/img-95.webp": [
       768,
