@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T04:13:16.955Z",
+  "generated": "2026-11-26T04:15:01.487Z",
   "posts": [
     {
       "id": "custom-brick-phone-cutout-1",
@@ -8761,6 +8761,144 @@
       "content": "## Result\n\nBatch drop for PulseChain Garden."
     },
     {
+      "id": "gpt-candid-shirt-1",
+      "title": "Fake scene with shirt reference #1",
+      "tags": [
+        "chatgpt-image-2",
+        "candid",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\ncrowded shopping mall in nebraska, teenage boy (athletic, white) is wearing a shirt with the graphic on the back (first image), they are photographed 80-100 feet away with a small crowd gathered around them as they play piano, 3:4 aspect ratio, high attention to details, should look real, as if it was shot on iphone 4\n```"
+    },
+    {
+      "id": "gpt-candid-shirt-2",
+      "title": "Fake scene with back of shirt ref",
+      "tags": [
+        "chatgpt-image-2",
+        "candid",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\n3:4 aspect ratio, young 20s athletic blonde man wearing shirt in first image, shoes in second image, and type of jeans in third image, they are walking alongside old japanese woman, she is using a walker and has a slight hunched back, she has her head turned slightly to the man and is saying something with slight smile, she is reaching out her arm to pat him on shoulder in gratitude, they are heading into an apartment complex and the man is holding a large number of walmart grocery bags, shot taken from side of street from afar from within car, at a slight angle, neither are aware of shot, from the back\n```"
+    },
+    {
+      "id": "gpt-combine-1",
+      "title": "Character fusion",
+      "tags": [
+        "chatgpt-image-2",
+        "gemini",
+        "combine",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 10%",
+      "content": "## Prompt\n\n```\nA single unified composition formed by intermingling the distinctive visual qualities of character in first image and character in second. Not a collage or side-by-side, but an artistic chimera: weave together forms, textures, motifs, and stylistic signatures from both so they coexist within one coherent design. The result should preserve recognizable traits of each source while transforming them into a fused identity, emphasizing technique and aesthetic hybridity rather than contextual placement.\n```\n\n```\nFuse both characters into one coherent being. one silhouette/identity. Merge anatomy/forms of 1st with textures/palette/style of second. No split/collage. Keep 2–3 traits from each, transformed by the fusion, as if one artist always drew this hybrid.\n```\n\n## Notes\n\n- Fuenter prompt"
+    },
+    {
+      "id": "gpt-combine-2",
+      "title": "Layer and stylize two images",
+      "tags": [
+        "chatgpt-image-2",
+        "combine",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-14",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nRender an image a person would see if they fell asleep looking at the first reference image while thinking about the second reference\n```"
+    },
+    {
+      "id": "gpt-complex-swap-1",
+      "title": "Complex swap 1",
+      "tags": [
+        "chatgpt-image-2",
+        "swap",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-21",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nFront-on studio photograph:\n-same man from image 1, identical face, expression\n-sitting in the driver's seat of the black 1992 Honda NSX-R from image 2.\n-car is photographed dead-on from the front, \n-perfectly centered and symmetrical,\n-zero-degree angle,\n-entire front of the car visible in frame. \n-Man seen through the windshield, looking directly into the camera lens through the glass\n-Man seated naturally low as the car sits close to the ground\n-Man appears slightly lower in the frame than in image 1. \n-The navy \"AMERICA FIRST\" cap rests on the dashboard, visible through the windshield.\n-Same exact environment as image 1\n-The studio lights and background reflect softly and realistically in the windshield glass and the car's black paint\n-His face remains clearly visible through the glass. Cinematic broadcast-studio color grade matching image 1.\n```\n\n### Second Pass\n\n```\nbring forward to match framing of the original image\n```\n\n### Photoshop\n\n```\nI took other versions with better windshield reflections and photoshopped over the second pass. Also took a mic from another version\n```"
+    },
+    {
+      "id": "gpt-inanimate-1",
+      "title": "transfer likeness to inanimate 1",
+      "tags": [
+        "chatgpt-image-2",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 10%",
+      "content": "## Prompt\n\n```\nthe man in the second image is wearing a balaclava that has the face of the man in the first image printed on it, 3:4 composition\n```"
+    },
+    {
+      "id": "gpt-inject-1",
+      "title": "Add camoflouged character to scene",
+      "tags": [
+        "chatgpt-image-2",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-14",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nin the corner behind the coffee cup, the character in the second image is standing back up against the wall painted in a way that camouflages them (entire body), whites of eyes visible, good camouflage but not invisible \n```"
+    },
+    {
+      "id": "gpt-mult-char-1",
+      "title": "Add multiple characters to scene",
+      "tags": [
+        "chatgpt-image-2",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nLow-angle Dutch tilt shot, camera positioned near the floor directly in front of a wooden talk-show desk, lens tilted roughly 15–20 degrees to the right. In the foreground, four identical chubby green frog characters are stacked in a precarious but physically plausible totem-pole formation — smooth matte 3D-rendered style, sleepy half-lidded eyes with small pupils, flat horizontal brown mouth, pot-bellied bodies with stubby arms and legs, exactly matching reference image 1.\nTotem staging, bottom to top:\n\nFrog 1 (base): Stands flat-footed with feet planted wide for stability, knees slightly bent in a quarter-squat to absorb the weight above. Both stubby arms reach up and grip the ankles of Frog 2 above him, bracing the column. Face strained with effort, mouth pressed tight, eyes wide and focused straight ahead — the only one taking this seriously.\nFrog 2: Stands on Frog 1's shoulders with both feet, knees locked, one hand pressed flat against the back of Frog 1's head for balance, the other arm extended out to the side like a tightrope walker. Body twisted slightly off-axis, weight shifted to compensate for a wobble. Expression blank and unfocused, looking off in the wrong direction entirely — completely checked out.\nFrog 3: Crouched low on Frog 2's shoulders rather than standing, knees bent and hands gripping the top of Frog 2's head for stability — acting as the stable platform for the climber above. Looking up nervously at Frog 4, mouth slightly open in mild concern.\nFrog 4 (top, the climber): Balanced on ONE foot atop Frog 3's head, the other leg bent back behind him for counterweight. Both stubby arms stretched fully overhead, fingertips just barely curled around the bottom edge of the red McDonald's fry carton, beginning to tilt it toward himself. Only the top of his head from the eyes up peeks above the desk surface — sleepy half-lidded eyes locked on the prize, mouth set in flat determination. The strain of the one-foot balance is visible in the slight diagonal lean of his body.\n\nThe whole column has a subtle S-curve sway — not perfectly vertical, slightly off-center, the kind of stack that's holding together through sheer commitment. Visible micro-details of instability: a foot half off a shoulder, fingers gripping too tight, weight distributed unevenly.\nBehind the desk: preserve the exact likeness, framing, and styling of the man from reference image 2 — tousled wavy brown hair, light stubble, narrow face, olive-grey suit jacket over white dress shirt with a gold patterned tie. He is leaning toward his podcast microphone (large black shotgun mic on a boom arm, entering from the right side of the frame), gesturing animatedly with one open palm, mid-rant, expression focused on an off-camera point. Completely oblivious to the frog tower and the fry carton being lifted right in front of him.\nSet details: vertical warm-brown wood slat paneling on the back wall, large areca palm fronds framing both sides, glowing nighttime cityscape monitor in the background (warm orange building lights, blue accent). On the desk: a black ceramic mug with a circular \"AF America First\" logo to his right, a royal blue \"AMERICA FIRST\" baseball cap lying flat to his left. The red McDonald's fry carton sits at the very front edge of the desk, being delicately lifted from below by Frog 4's fingertips.\nLighting: warm key light on the man matching the original reference, cool fill from the city monitor on his left side, soft spill light catching the green frogs from above with subtle rim light on their backs and the top of Frog 4's head as he breaches the desk plane. Shallow depth of field — the frog totem in sharper focus in the foreground, the man in slightly softer focus behind.\nComposition: vertical 3:4 aspect ratio. The totem stacks dramatically up the center-left of the frame, occupying most of the vertical space. Desk edge cuts across the upper third of the frame, with Frog 4's head and arms just breaching that line as he reaches the fries. The man's torso and head fill the top portion of the frame behind the desk. Slight wide-angle lens distortion exaggerates the verticality.\nMood: absurdist deadpan physical comedy — varied character expressions (strained, checked-out, nervous, determined) sell the personalities of each frog. The joke is in the precariousness, the obliviousness of the host, and how close they are to pulling off the heist.\n```"
+    },
+    {
+      "id": "gpt-mult-char-2",
+      "title": "Create scene with multiple people",
+      "tags": [
+        "chatgpt-image-2",
+        "create-scene",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-08-07",
+      "images": [],
+      "hero": "50% 10%",
+      "content": "## Prompt\n\n```\nman1 (first image)\nman2 (second image)\nMaintain their facial likeness specifically.\nman1 and man2 posing next to each other next to the chicago bean, both are doing the pose in the third image, high angle, Instagram flex-photo vibe, keep exact facial likeness and expression of the first man, adjust angle to keep same angle that he is in within the first image.\n```\n\n## Notes\n\n```\nI'm asking gpt to do a lot here - create a scene with multiple people, maintain exact likeness and outfits (which for person 1 had to be inferred), and give them a specific pose and angle. The only way to do this I've found is to pre-configure at least one of the people in the scene, it works best when you pre-configure both of them but I was able to get a good result with just one.\n```"
+    },
+    {
+      "id": "gpt-perspective-1",
+      "title": "Perspective change 1",
+      "tags": [
+        "chatgpt-image-2",
+        "perspective",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nchange the perspective so that the shot looks like it is from his perspective, shot from the side of his head, hands in view (increase their size 20%), slight fish eye to mimic POV, camera in front, stacked monitors on left, right corner has a bunch of mcdonalds wrappers and bags overflowing from trash bin\n```"
+    },
+    {
       "id": "gpt-pulse-city-1",
       "title": "PulseChain neon city night",
       "tags": [
@@ -8772,6 +8910,19 @@
       "images": [],
       "hero": "50% 50%",
       "content": "## Prompt\n\n```\nwide night cityscape on PulseChain, teal and magenta neon signage reflected in wet asphalt, distant hexagonal tower glowing pulse-green, anamorphic lens flare, cinematic 1980s sci-fi still, deep blacks, no readable brand logos, photoreal\n```\n\n## Notes\n\n- Good environment plate for compositing RH later.\n- Keep logos abstract — models love inventing fake tickers."
+    },
+    {
+      "id": "gpt-recreate-1",
+      "title": "Recreate/Retexture scene",
+      "tags": [
+        "chatgpt-image-2",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-08",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nrecreate the angle and no wall from the first image with the second image character/studio\n```"
     },
     {
       "id": "gpt-rh-stage-1",
@@ -8808,6 +8959,132 @@
       "content": "## Prompt\n\n```\nUse image 1–3 as identity references. Concert stage photo of that exact man under teal spotlights: short wavy dirty-blonde hair, groomed goatee, fair skin with pink cheeks, black shirt, crowd as dark silhouettes, concert photography, shallow depth of field, stage haze, high ISO grain, keep face locked to the references, confident natural expression\n```\n\n## Notes\n\n- Attach **img-ref** plates first — do not ask the model to invent “Richard Heart.”\n- Prefer a real stage photo as an extra pose lock if you have one.\n- Avoid inventing microphones that cover the face."
     },
     {
+      "id": "gpt-style-1",
+      "title": "Simple style transfer",
+      "tags": [
+        "chatgpt-image-2",
+        "style-transfer",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-08",
+      "images": [],
+      "hero": "50% 10%",
+      "content": "## Prompt\n\n```\nrecreate the second image in the style of the first image, 3:4 aspect ratio\n```"
+    },
+    {
+      "id": "gpt-style-2",
+      "title": "Alter style with prompt only",
+      "tags": [
+        "chatgpt-image-2",
+        "style-transfer",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-14",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\noutside the window is water, shark swimming around, the inside of the room is relit and shows the ripples in the water, dramatic/moody lighting, keep man and rest of the room the same\n```"
+    },
+    {
+      "id": "gpt-style-3",
+      "title": "Transfer style render strategy",
+      "tags": [
+        "chatgpt-image-2",
+        "style-transfer",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-15",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nrender the first image as if it were created by the artist of the second image\n```"
+    },
+    {
+      "id": "gpt-style-4",
+      "title": "80s style transfer prompts",
+      "tags": [
+        "chatgpt-image-2",
+        "style-transfer",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-28",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nRegrade this photo to look like a 1985 anamorphic film frame: tungsten-and-neon mixed lighting pushed heavily toward red/magenta, gobo shadows from window blinds raking diagonally across the subject, ISO 800 pushed film grain, lens chromatic aberration at frame edges, glowing halation around light sources, background reduced to abstract warm bokeh. Facial identity and hair must remain exactly as shown.\n```\n\n```\nTransform this image into a retro synthwave / 1980s Michael Mann-style film still: nighttime, moody, saturated crimson and violet lighting, venetian blind shadow stripes, grainy Kodak film texture, dreamy blur, city skyline bokeh through a window. Keep the man's face, expression, and hairstyle unchanged and photorealistic. same person & outfit just regraded\n```\n\n```\nRe-render this man as a still from a 1980s neo-noir thriller shot on 35mm film. He sits in a dark high-rise office at night, bathed in intense red and magenta neon light slicing through venetian blinds across his face and navy suit. Background is out-of-focus city lights rendered as soft bokeh. Add heavy analog film grain, chromatic aberration, halation on highlights, and a slightly soft focus. Preserve his exact facial likeness and wavy dark hair.\n```"
+    },
+    {
+      "id": "gpt-style-5",
+      "title": "Flash photo at night",
+      "tags": [
+        "chatgpt-image-2",
+        "style-transfer",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-28",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nPoint-and-shoot flash photography, 2003. direct harsh flash, same environment, the flash overexposing his face and the trees in background barely visible \n```\n\n```\nPoint-and-shoot flash photography, 2003. direct harsh flash, red-eye glow, the man at his desk placed in an endless empty parking garage at night, sodium vapor lamps receding into infinity, wet concrete reflections, the flash overexposing his face while everything 20 feet back falls into total black\n```"
+    },
+    {
+      "id": "gpt-style-6",
+      "title": "Cinematic deep blue style transfer",
+      "tags": [
+        "chatgpt-image-2",
+        "style-transfer",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-29",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nUsing the man in the reference image: a film still scanned from a 1984 35mm print. He stands in profile at a floor-to-ceiling window in a dark broadcast studio at night, almost entirely silhouetted, only a thin rim of moonlight traces his face, hair, and shoulders. A full moon hangs over a distant city skyline, its reflection on water the brightest element, slightly blown out with soft halation. The entire image is a single deep cobalt-blue monochrome, no warm tones anywhere. Shadows crushed to true black, sparse midtones, visible film grain heavier in the shadows. Wide anamorphic framing, him off-center, palm fronds and furniture as dark foreground shapes. Not a bright digital photo: no HDR, no lifted shadows, no mixed lighting.\n```\n\n- relatively universal"
+    },
+    {
+      "id": "gpt-swap-2",
+      "title": "Pulse swap (force)",
+      "tags": [
+        "chatgpt-image-2",
+        "swap",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nrecreate the first image with the green character in the second image, keep the color palette (including for character) from the original image, keep the expression of the original image, also update the second character to have the same texture as the original image, CRITICAL CHARACTER NOTE ABOUT GREEN CHARACTER: This character is NOT Pepe the Frog and must not be interpreted, restyled, or nudged toward Pepe's geometry. Specifically: Keep the rounded bulbous humanoid head shape from this green character second image reference. This is an original character that happens to be green-skinned and amphibian-adjacent; treat it as you would any original humanoid design. \n```"
+    },
+    {
+      "id": "gpt-swap-mini-1",
+      "title": "Swap person and make them miniature",
+      "tags": [
+        "chatgpt-image-2",
+        "swap",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nreplace the person on the right with the person in the second image, the person in the second image is miniature, they are further to the right down the steps\n```"
+    },
+    {
+      "id": "gpt-swap-mult-1",
+      "title": "Swap two people into an image",
+      "tags": [
+        "chatgpt-image-2",
+        "swap",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 10%",
+      "content": "## Prompt\n\n```\nreplace the likeness of the man and woman with the man and woman in second and third images, keep scene the same, keep expressions of original image including lighting. update to be 3:4 image\n```\n\n## Notes\n\n- Base image made with Midjourney v8.1 no references prompt below\n\n```\nWide anamorphic two shot, slight low angle, dusty near abandoned 1880s frontier town main street. Two figures stride shoulder to shoulder toward camera mid stride. Left: Black woman, mid 20s, long dark hair, wide brim black cowboy hat, 3/4 face toward companion, cream rolled sleeve button down, deep cobalt blue bandana knotted at throat, tooled leather gun belt slung low, revolver holstered right hip, dark fitted denim, scuffed riding boots. Right: White man, mid 30s, full reddish brown beard, short tousled hair, black wide brim hat, 3/4 face front lit, gunmetal Oakley X Metal Juliet sunglasses with fire iridium red lenses catching lens flare, charcoal tailored suit jacket over dark dress shirt and patterned tie (deliberately anachronistic), right hand gripping a curved fixed blade knife. Background: sun bleached clapboard buildings, rutted dirt street, tumbleweeds, hitching post, distant church steeple. Editorial poster framing. Palette: bleached bone white sky, dusty ochre street, deep umber shadows, cobalt and fire red accents. 35mm film grain, faint halftone shadows, subtle CMYK registration offset on highlights for vintage litho poster feel. High noon stillness, suspended dust haze, sharp foreground, soft mid ground bokeh. --chaos 75 --ar 7:3 --raw --sref 2081446411 --profile ukmch4y mphr36g --stylize 1000 --hd\n```"
+    },
+    {
       "id": "mj-hex-poster-1",
       "title": "HEX monumental type poster",
       "tags": [
@@ -8820,6 +9097,48 @@
       "images": [],
       "hero": "50% 50%",
       "content": "## Prompt\n\n```\nhuge letters \"HEX\" fill the entire composition top to bottom and across, no empty space, black outside the letters, only within the letters is a glowing teal pulse lattice and gold filament light, heavy risograph grain, cyber-finance poster, sacred geometry --chaos 40 --ar 3:1 --raw --stylize 900 --v 7\n```\n\n## Notes\n\n- Works as a banner / header asset.\n- Try `PULSE` or `PLS` as alternate letter stacks."
+    },
+    {
+      "id": "mj-misc-1",
+      "title": "Y2k isometric at computer",
+      "tags": [
+        "midjourney",
+        "v8.1",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-14",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nY2K isometric poster hunched-over figure coding at a translucent bubble iMac glowing HTML pop-ups, pixel fonts, spinning 3D icons, chrome scrollbars, and loading bars everywhere chaotic fusion of skeuomorphic UI, glitch overlays, scrolling terminal code exaggerated lens flares, techie stickers, metallic textures silver, neon blue, soft magenta, cyber lime brutalist grid meets millennial plastic high-gloss maximalist aesthetic, ultra-detailed layout, poster format --chaos 30 --ar 3:4 --raw --profile mphr36g bte2fzr x451od4 --stylize 700 --v 8.1\n```"
+    },
+    {
+      "id": "mj-movie-1",
+      "title": "Movie poster buddy cops",
+      "tags": [
+        "midjourney",
+        "v8.0",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 10%",
+      "content": "## Prompt\n\n```\ncinematic 1980s buddy-cop action movie poster, two male detectives standing back to back in dramatic poses, one younger with wild long mullet hair and piercing blue eyes in a worn leather jacket, the other an older distinguished Black man with a graying mustache in a rumpled suit and loosened tie looking like he's too old for this, fiery explosion and cityscape silhouette behind them, dramatic orange and teal split lighting, the text \"DEFCON 3\" stylishly integrated into the composition in bold chrome metallic lettering with light reflections, cinematic typography woven into the smoke and light, anamorphic lens flares, high detail --chaos 20 --ar 3:4 --raw --profile canaos2 --stylize 1000 --v 8.0\n```"
+    },
+    {
+      "id": "mj-poster-1",
+      "title": "Soprano MJ poster",
+      "tags": [
+        "midjourney",
+        "v8.2",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-20",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nhuge letters \"PULSE\" fill the entire composition top to bottom and across, no empty space, black outside of the letters, only within the letters is the scene: tony soprano sitting next to pool --chaos 40 --ar 3:1 --raw --profile 31nnrs9 --stylize 1000 --preview --v 8.1\n```\n\n`--preview --v 8.1` on [alpha.midjourney.com](https://alpha.midjourney.com/) to access `--v 8.2`"
     },
     {
       "id": "mj-rh-portrait-1",
@@ -8854,6 +9173,101 @@
         ]
       },
       "content": "## Prompt\n\n```\ncinematic portrait of the man in the attached reference photos, middle-aged Caucasian matching refs exactly: short wavy dirty-blonde hair, groomed goatee with light gray, fair skin with pink cheeks, confident expression, teal rim light from camera-right, deep black studio backdrop, subtle teal accent glow on cheek edge, shot on 85mm f/1.8, shallow depth of field, fine film grain, high contrast, no text, no logos --ar 3:4 --stylize 250 --v 7\n```\n\n## Notes\n\n- **Attach the img-ref plates** (image prompts / `--cref`). Models do not know him by name.\n- Face-lock block lives on **RH model kit** if you need the reusable snippet.\n- Swap teal for gold if you want a HEX-forward grade."
+    },
+    {
+      "id": "mj-surreal-1",
+      "title": "Surreal character MJ",
+      "tags": [
+        "midjourney",
+        "v7.0",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\ntwo-tone photographic poster, only black and deep olive, a man in a long cloak with a heavy ornate mask, standing on a smooth empty plane, the cloak has tiny reflective points like wet sequins, long shadow splits into strange shapes, extremely minimal background, print-scan texture, dust and grain --chaos 100 --ar 2:1 --exp 100 --raw --profile a15dut4 brkalbq --ow 550 --stylize 1000 --v 7\n```"
+    },
+    {
+      "id": "mj-surreal-2",
+      "title": "Frutiger Aero Pulse one",
+      "tags": [
+        "midjourney",
+        "v7.0",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 10%",
+      "content": "## Prompt\n\n```\nFrutiger Aero dream poster featuring green character with sunglasses flying through clouds, bubbles, green pastures, dolphins, dreamlike atmosphere, clean and elegant, 2002 frutigeraero aesthetics --no text --chaos 35 --ar 3:4 --exp 100 --raw --profile ne1w54c hos1t17 --ow 800 --stylize 800 --v 7\n```"
+    },
+    {
+      "id": "mj-surreal-3",
+      "title": "Wormhole",
+      "tags": [
+        "midjourney",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-16",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nMan, horror parasitism, seal, repetition, clinical sharp, constructivist poster aesthetic, worm's eye looking up --chaos 60 --ar 3:4 --exp 100 --raw --sref https://s.mj.run/Dq_b3gDpcwc --profile a15dut4 brkalbq rq1hb5e u4fepp9 --stylize 1000 --v 7\n```"
+    },
+    {
+      "id": "mj-surreal-4",
+      "title": "Retro sci-fi surreal",
+      "tags": [
+        "midjourney",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-17",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nscience fiction film still from 1974, a man stands next to a strange shaped glass window that looks out towards thousands of stars, shot with a Leica M6 camera9 --chaos 50 --ar 3:4 --raw --sref https://s.mj.run/E1P3RW2L9Y4 https://s.mj.run/TPfQB1TBtig --profile rvm5pu4 eh8i5sg swac6v6 --oref https://s.mj.run/PEJg8NtZlEU --ow 575 --stylize 650 --v 7\n```"
+    },
+    {
+      "id": "mj-surreal-5",
+      "title": "Monolith",
+      "tags": [
+        "midjourney",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-17",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nwide cinematic shot of alien roaming grasslands amongst ancient towering trees, at the hilltop center stands a massive stone totem monolith, a structure built from the letters \"HEX\" stacked vertically, from base to peak each letter a separate carved stone block, the letterforms functioning as architecture, moss and lichen growing in the crevices of each carved glyph, the totem dwarfing everything around it, a tiny soft white luminous figure stands featureless, diffused glow, no hard edges, standing at its base looking up, deep forest background, atmospheric depth, kodak portra film grain, surreal sci-fi --chaos 40 --ar 2:1 --exp 35 --raw --sref 802244360 --profile 118tu75 --stylize 900 --hd --v 8.0\n```"
+    },
+    {
+      "id": "mj-surreal-6",
+      "title": "Y2K MJ poster",
+      "tags": [
+        "midjourney",
+        "v8.2",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-20",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\nModern Gothic text \"PULSE\" takes up the entire frame within the text: full-shot, halation, Y2K, sharp details, frog humanoids, elegant and clean, retro-futuristic --chaos 50 --ar 2:1 --exp 50 --raw --sref 2120436945 --profile 8mjogxz --stylize 800 --hd --preview --v 8.1\n```\n\n- No references\n`--preview --v 8.1` on [alpha.midjourney.com](https://alpha.midjourney.com/) to access `--v 8.2`"
+    },
+    {
+      "id": "mj-text-1",
+      "title": "AF Text MJ",
+      "tags": [
+        "midjourney",
+        "v8.0",
+        "prompt",
+        "groyper-steal"
+      ],
+      "date": "2026-07-07",
+      "images": [],
+      "hero": "50% 50%",
+      "content": "## Prompt\n\n```\ntext: \"AF\", realistic dark distented liquid metal typography medium weight, soft RGB spectrum reflections on chrome, serif, centered composition, sharp details, elegant, clean, retro-futuristic, background is extremely intricate crashing black waves, slight reflection of red moon --chaos 40 --ar 4:3 --exp 32 --raw --profile etymmj8 sjcj9wq --stylize 1000 --v 8.0\n```"
     }
   ],
   "styles": [

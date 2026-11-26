@@ -1,7 +1,22 @@
 {
   "prompts": [
     {
-      "prompt": "Attach RH model refs. Cinematic portrait of the man in the references: short wavy dirty-blonde hair, groomed goatee with light gray, fair skin with pink cheeks, teal rim light, deep black backdrop, 85mm, film grain — keep face locked to refs"
+      "prompt": "Using the man in the reference image: a film still scanned from a 1984 35mm print. Deep cobalt-blue monochrome, crushed blacks, film grain, wide anamorphic, silhouette at a night window \u2014 attach RH model refs for face if needed"
+    },
+    {
+      "prompt": "Regrade this photo like a 1985 anamorphic film frame: tungsten-and-neon pushed red/magenta, gobo blind shadows, ISO 800 grain, chromatic aberration, glowing halation \u2014 keep facial identity exact to refs"
+    },
+    {
+      "prompt": "Point-and-shoot flash photography, 2003. Direct harsh flash, same environment, flash overexposing the face, background barely visible"
+    },
+    {
+      "prompt": "render the first image as if it were created by the artist of the second image"
+    },
+    {
+      "prompt": "in the corner behind the coffee cup, the character in the second image is standing back up against the wall painted in a way that camouflages them (entire body), whites of eyes visible"
+    },
+    {
+      "prompt": "Attach RH model refs. Cinematic portrait of the man in the references: short wavy dirty-blonde hair, groomed goatee with light gray, fair skin with pink cheeks, teal rim light, deep black backdrop, 85mm, film grain \u2014 keep face locked to refs"
     },
     {
       "prompt": "monumental typography poster, the word HEX filling the frame, teal and gold duotone, risograph grain, cyber-finance aesthetic, no empty space"
@@ -16,13 +31,10 @@
       "prompt": "style transfer: regrade this photo as a 1992 trading-floor broadcast still, CRT bloom, teal UI overlays reading PULSE, crushed blacks"
     },
     {
-      "prompt": "Attach RH model refs. Concert stage of that exact man under teal spotlights, black shirt, crowd silhouettes, shallow DOF, stage haze — face locked to references, not the name"
+      "prompt": "Attach RH model refs. Concert stage of that exact man under teal spotlights, black shirt, crowd silhouettes, shallow DOF, stage haze \u2014 face locked to references, not the name"
     },
     {
       "prompt": "liquid teal chrome heart sculpture on black pedestal, studio lighting, product photography, subtle hex-lattice reflections"
-    },
-    {
-      "prompt": "Y2K PulseChain poster, futuristic frog-adjacent mascot optional, halation, sharp details, teal/black palette --ar 2:1"
     }
   ]
 }
