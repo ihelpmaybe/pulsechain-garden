@@ -52,7 +52,7 @@ def drop_candidates() -> list[Path]:
         if p.suffix.lower() not in {".jpg", ".jpeg", ".png", ".webp"}:
             continue
         name = p.name.lower()
-        if "20-37-57" in name or "20-30-13" in name:
+        if any(t in name for t in ("20-46-49", "20-46-48", "20-37-57", "20-30-13")):
             out.append(p)
     return out
 
