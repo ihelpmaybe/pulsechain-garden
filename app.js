@@ -508,6 +508,13 @@
     //     <a class="donate-link" href="${SOL_PROFILE_URL}" target="_blank" rel="noopener">${SOL_PROFILE_URL}</a>
     //   </section>`);
 
+    parts.push(`
+      <aside class="inspire-tip" role="note">
+        Stuck for ideas? Browse
+        <a href="https://www.pinterest.com/" target="_blank" rel="noopener">Pinterest</a>
+        for inspiration — then come back and build with refs + prompts.
+      </aside>`);
+
     if (promptOfDay) {
       const today = new Date().toISOString().slice(0, 10);
       parts.push(`

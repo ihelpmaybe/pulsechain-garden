@@ -554,6 +554,29 @@ body.assets-page .controls {
   word-break: break-all;
 }
 
+/* ---------------------------------------------------- inspiration reminder */
+.inspire-tip {
+  font-size: var(--fs-sm);
+  color: var(--text-2);
+  margin-bottom: var(--sp-2);
+  padding: var(--sp-2) var(--sp-3);
+  border-left: 3px solid var(--accent);
+  background: var(--bg-2);
+  border-radius: 0 var(--radius-xs) var(--radius-xs) 0;
+  line-height: 1.4;
+}
+
+.inspire-tip a {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.inspire-tip a:hover {
+  color: var(--text);
+}
+
 /* ------------------------------------------------------- prompt of the day */
 .potd {
   background: var(--bg-2);

@@ -44,6 +44,11 @@
       "name": "Aesthetics Wiki",
       "url": "https://aesthetics.fandom.com/wiki/Aesthetics_Wiki",
       "desc": "Explore aesthetics"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/",
+      "desc": "Inspiration — browse moods, fashion, comps"
     }
   ],
   "social": [
