@@ -1,7 +1,7 @@
 {
   "prompts": [
     {
-      "prompt": "cinematic portrait of Richard Heart, sharp facial likeness, teal rim light, deep black background, PulseChain green accent glow, shot on 85mm, film grain, high contrast"
+      "prompt": "Attach RH model refs. Cinematic portrait of the man in the references: short wavy dirty-blonde hair, groomed goatee with light gray, fair skin with pink cheeks, teal rim light, deep black backdrop, 85mm, film grain — keep face locked to refs"
     },
     {
       "prompt": "monumental typography poster, the word HEX filling the frame, teal and gold duotone, risograph grain, cyber-finance aesthetic, no empty space"
@@ -16,7 +16,7 @@
       "prompt": "style transfer: regrade this photo as a 1992 trading-floor broadcast still, CRT bloom, teal UI overlays reading PULSE, crushed blacks"
     },
     {
-      "prompt": "Richard Heart on stage under teal spotlights, crowd silhouettes, concert photography, shallow depth of field, keep exact facial likeness"
+      "prompt": "Attach RH model refs. Concert stage of that exact man under teal spotlights, black shirt, crowd silhouettes, shallow DOF, stage haze — face locked to references, not the name"
     },
     {
       "prompt": "liquid teal chrome heart sculpture on black pedestal, studio lighting, product photography, subtle hex-lattice reflections"

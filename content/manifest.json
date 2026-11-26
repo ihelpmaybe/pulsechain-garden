@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T04:09:47.056Z",
+  "generated": "2026-11-26T04:13:16.955Z",
   "posts": [
     {
       "id": "custom-brick-phone-cutout-1",
@@ -8434,6 +8434,68 @@
       "content": "## Result\n\nBatch drop for PulseChain Garden."
     },
     {
+      "id": "custom-rh-model-kit-1",
+      "title": "RH model kit — face + body refs",
+      "tags": [
+        "custom",
+        "richard-heart",
+        "model",
+        "img-ref",
+        "hex"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp",
+        "img-01.webp",
+        "img-02.webp",
+        "img-03.webp",
+        "img-04.webp"
+      ],
+      "hero": "50% 50%",
+      "refs": {
+        "img-ref": [
+          "ref-01.webp",
+          "ref-02.webp",
+          "ref-03.webp"
+        ]
+      },
+      "dims": {
+        "fin-01.webp": [
+          576,
+          1024
+        ],
+        "img-01.webp": [
+          1200,
+          628
+        ],
+        "img-02.webp": [
+          576,
+          1024
+        ],
+        "img-03.webp": [
+          576,
+          1024
+        ],
+        "img-04.webp": [
+          1080,
+          1920
+        ],
+        "img-ref/ref-01.webp": [
+          576,
+          1024
+        ],
+        "img-ref/ref-02.webp": [
+          1200,
+          628
+        ],
+        "img-ref/ref-03.webp": [
+          576,
+          1024
+        ]
+      },
+      "content": "## Result\n\nClean Richard Heart **model plates** for image generators. Models generally do **not** know who he is by name — always attach 1–3 of these as face/body refs.\n\n## Prompt (face-lock block — paste + attach refs)\n\n```\nman matching the attached reference photos exactly: middle-aged Caucasian, short wavy dirty-blonde / light-brown hair styled up or side-parted, groomed goatee with light gray, fair skin with pink cheeks, confident expression, keep identity and facial structure locked to the references, do not invent a different face\n```\n\n## How to use\n\n1. Attach **img-ref** plates as image 1–3 (face close + full body).\n2. Paste the face-lock block, then add your scene / outfit / camera.\n3. Never rely on the words “Richard Heart” alone for likeness.\n4. Download the reference zip on this post when you need a local pack.\n\n## Notes\n\n- Assets filter → **img-ref** has the same plates for quick grab.\n- Frog / mascot plates are style, not likeness — use real-photo refs for face lock."
+    },
+    {
       "id": "custom-rh-prison-suit-1",
       "title": "RH prison tracksuit 5555369",
       "tags": [
@@ -8722,7 +8784,28 @@
       "date": "2026-11-25",
       "images": [],
       "hero": "50% 10%",
-      "content": "## Prompt\n\n```\nRichard Heart on stage under teal spotlights, exact facial likeness, black shirt, crowd as dark silhouettes, concert photography, shallow depth of field, stage haze, high ISO grain, keep expression confident and natural\n```\n\n## Notes\n\n- Pair with a real stage photo as image 1 for pose lock.\n- Avoid inventing microphones that cover the face."
+      "refs": {
+        "img-ref": [
+          "ref-01.webp",
+          "ref-02.webp",
+          "ref-03.webp"
+        ]
+      },
+      "dims": {
+        "img-ref/ref-01.webp": [
+          576,
+          1024
+        ],
+        "img-ref/ref-02.webp": [
+          1080,
+          1920
+        ],
+        "img-ref/ref-03.webp": [
+          576,
+          1024
+        ]
+      },
+      "content": "## Prompt\n\n```\nUse image 1–3 as identity references. Concert stage photo of that exact man under teal spotlights: short wavy dirty-blonde hair, groomed goatee, fair skin with pink cheeks, black shirt, crowd as dark silhouettes, concert photography, shallow depth of field, stage haze, high ISO grain, keep face locked to the references, confident natural expression\n```\n\n## Notes\n\n- Attach **img-ref** plates first — do not ask the model to invent “Richard Heart.”\n- Prefer a real stage photo as an extra pose lock if you have one.\n- Avoid inventing microphones that cover the face."
     },
     {
       "id": "mj-hex-poster-1",
@@ -8749,7 +8832,28 @@
       "date": "2026-11-25",
       "images": [],
       "hero": "50% 50%",
-      "content": "## Prompt\n\n```\ncinematic portrait of Richard Heart, exact facial likeness and expression, teal rim light from camera-right, deep black studio backdrop, subtle PulseChain green accent glow on cheek edge, shot on 85mm f/1.8, shallow depth of field, fine film grain, high contrast, no text, no logos --ar 3:4 --stylize 250 --v 7\n```\n\n## Notes\n\n- Drop a clean face ref in `img-ref/` and keep likeness language explicit.\n- Swap teal for gold if you want a HEX-forward grade."
+      "refs": {
+        "img-ref": [
+          "ref-01.webp",
+          "ref-02.webp",
+          "ref-03.webp"
+        ]
+      },
+      "dims": {
+        "img-ref/ref-01.webp": [
+          576,
+          1024
+        ],
+        "img-ref/ref-02.webp": [
+          1200,
+          628
+        ],
+        "img-ref/ref-03.webp": [
+          576,
+          1024
+        ]
+      },
+      "content": "## Prompt\n\n```\ncinematic portrait of the man in the attached reference photos, middle-aged Caucasian matching refs exactly: short wavy dirty-blonde hair, groomed goatee with light gray, fair skin with pink cheeks, confident expression, teal rim light from camera-right, deep black studio backdrop, subtle teal accent glow on cheek edge, shot on 85mm f/1.8, shallow depth of field, fine film grain, high contrast, no text, no logos --ar 3:4 --stylize 250 --v 7\n```\n\n## Notes\n\n- **Attach the img-ref plates** (image prompts / `--cref`). Models do not know him by name.\n- Face-lock block lives on **RH model kit** if you need the reusable snippet.\n- Swap teal for gold if you want a HEX-forward grade."
     }
   ],
   "styles": [
@@ -10473,6 +10577,26 @@
     {
       "file": "hex/fin-01.webp",
       "category": "hex"
+    },
+    {
+      "file": "img-ref/img-01.webp",
+      "category": "img-ref"
+    },
+    {
+      "file": "img-ref/img-02.webp",
+      "category": "img-ref"
+    },
+    {
+      "file": "img-ref/img-03.webp",
+      "category": "img-ref"
+    },
+    {
+      "file": "img-ref/img-04.webp",
+      "category": "img-ref"
+    },
+    {
+      "file": "img-ref/img-05.webp",
+      "category": "img-ref"
     },
     {
       "file": "rh/fin-01.webp",
@@ -12199,6 +12323,26 @@
     "hex/fin-01.webp": [
       978,
       1024
+    ],
+    "img-ref/img-01.webp": [
+      576,
+      1024
+    ],
+    "img-ref/img-02.webp": [
+      576,
+      1024
+    ],
+    "img-ref/img-03.webp": [
+      576,
+      1024
+    ],
+    "img-ref/img-04.webp": [
+      1200,
+      628
+    ],
+    "img-ref/img-05.webp": [
+      1080,
+      1920
     ],
     "rh/fin-01.webp": [
       817,
