@@ -1,2 +1,6 @@
 custom
-drop
+jimmy
+hex
+mascot
+pepe
+meme
