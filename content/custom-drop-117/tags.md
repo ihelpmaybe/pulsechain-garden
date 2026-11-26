@@ -1,7 +1,4 @@
 custom
 jimmy
-hex
-mascot
-pepe
+lena
 sailor-venus
-

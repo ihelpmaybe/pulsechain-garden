@@ -1,3 +1,3 @@
 ## Result
 
-Batch dump for PulseChain Garden.
+**Jimmy + Lena** — Hexlena / Sailor Venus plate.
