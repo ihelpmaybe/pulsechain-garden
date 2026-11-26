@@ -1,6 +1,29 @@
 {
-  "generated": "2026-11-26T03:21:57.200Z",
+  "generated": "2026-11-26T03:27:11.830Z",
   "posts": [
+    {
+      "id": "custom-rh-hex-frog-1",
+      "title": "RH HEX frog — luxury mascot",
+      "tags": [
+        "custom",
+        "richard-heart",
+        "hex",
+        "mascot",
+        "pepe"
+      ],
+      "date": "2026-11-25",
+      "images": [
+        "fin-01.webp"
+      ],
+      "hero": "50% 10%",
+      "dims": {
+        "fin-01.webp": [
+          817,
+          1024
+        ]
+      },
+      "content": "## Result\n\nSeed mascot for PulseChain Garden — Richard Heart as a smug green frog, HEX pendant, iced Cubans, pink/red monogram bomber.\n\n## Prompt (recreate / variants)\n\n```\n3D character portrait of a smug anthropomorphic green frog with Richard Heart's side-parted dirty-blonde hair and small goatee, wide pepe grin showing white teeth, half-lidded confident eyes, leaning forward with chin resting on interlaced hands, one foot raised, wearing a pink and red Gucci-monogram zip bomber with black-white striped rib cuffs, two thick iced-out Cuban link chains with a large jeweled HEX hexagon pendant in pink-orange-yellow gradient, photoreal skin texture, studio lighting, shallow depth of field indoor background\n```\n\n## Notes\n\n- Keep HEX pendant readable; models often melt the hex.\n- Swap bomber colors to Pulse teal for a PulseChain variant.\n- Good face/body ref for later likeness locks."
+    },
     {
       "id": "gpt-pulse-city-1",
       "title": "PulseChain neon city night",
@@ -74,6 +97,10 @@
   ],
   "assets": [
     {
+      "file": "rh/fin-01.webp",
+      "category": "rh"
+    },
+    {
       "file": "rh/img-01.webp",
       "category": "rh"
     },
@@ -87,6 +114,10 @@
     }
   ],
   "assetDims": {
+    "rh/fin-01.webp": [
+      817,
+      1024
+    ],
     "rh/img-01.webp": [
       1200,
       628
