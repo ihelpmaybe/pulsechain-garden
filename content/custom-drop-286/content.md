@@ -1,3 +1,3 @@
 ## Result
 
-Batch dump for PulseChain Garden.
+**Richard** — likeness / lifestyle plate. Use as face/body ref.
