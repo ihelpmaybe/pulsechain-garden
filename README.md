@@ -4,6 +4,8 @@ Local fork of [prompt-site](https://github.com/egoprry/prompt-site) (the engine 
 
 Static SPA. No framework. Drop folders in `content/`, run `npm run build`, serve.
 
+**Live:** https://ihelpmaybe.github.io/pulsechain-garden/
+
 ## Quick start
 
 ```bash
